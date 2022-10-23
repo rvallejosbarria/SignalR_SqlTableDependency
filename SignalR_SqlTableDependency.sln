@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR_SqlTableDependency", "SignalR_SqlTableDependency\SignalR_SqlTableDependency.csproj", "{697F2ACF-B967-4327-B699-AB5F69E0DACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{697F2ACF-B967-4327-B699-AB5F69E0DACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697F2ACF-B967-4327-B699-AB5F69E0DACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697F2ACF-B967-4327-B699-AB5F69E0DACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697F2ACF-B967-4327-B699-AB5F69E0DACB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {961EE1D1-EC8C-46FF-A704-F7D99AE3B9B4}
+	EndGlobalSection
+EndGlobal
